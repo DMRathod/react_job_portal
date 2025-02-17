@@ -9,7 +9,7 @@ export default defineConfig({
     port:5000,
     proxy:{
       '/api':{
-        target: 'http://localhost:8081',
+        target: 'https://jsonserver-psy1.onrender.com/',
         changeOrigin:  true,
         rewrite: (path) => path.replace(/^\/api/, '')
       }
