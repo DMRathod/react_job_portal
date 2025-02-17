@@ -5,7 +5,7 @@ import Homepage from './pages/Homepage';
 import MainLayout from './layouts/MainLayout';
 import Jobspage from './pages/Jobspage';
 import JobPage from './pages/JobPage';
-import AddJobPage from './pages/addJobPage';
+import AddJobPage from './pages/AddJobPage';
 import NotFoundPage from './pages/Notfoundpage';
 import EditjobPage from './pages/EditjobPage';
 import AboutUsPage from './pages/AboutUsPage';
