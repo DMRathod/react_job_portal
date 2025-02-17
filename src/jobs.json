@@ -1,0 +1,1404 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Product Designer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Product Designer at OpsMasters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Los Angeles, CA",
+      "salary": "$122K - $146K",
+      "company": {
+        "name": "OpsMasters",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@opsmasters.com",
+        "contactPhone": "+1-742-555-9686"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Social Media Manager",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Social Media Manager at TechSupport Co.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Denver, CO",
+      "salary": "$140K - $142K",
+      "company": {
+        "name": "TechSupport Co.",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@techsupportco..com",
+        "contactPhone": "+1-218-555-3937"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Financial Analyst",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Financial Analyst at Tech Innovations Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$62K - $139K",
+      "company": {
+        "name": "Tech Innovations Inc.",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@techinnovationsinc..com",
+        "contactPhone": "+1-721-555-2332"
+      }
+    },
+    {
+      "id": "4",
+      "title": "IT Support Specialist",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a IT Support Specialist at CloudSolutions. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Los Angeles, CA",
+      "salary": "$133K - $102K",
+      "company": {
+        "name": "CloudSolutions",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@cloudsolutions.com",
+        "contactPhone": "+1-214-555-7767"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Content Strategist",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Content Strategist at DataWorks LLC. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Chicago, IL",
+      "salary": "$83K - $105K",
+      "company": {
+        "name": "DataWorks LLC",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@dataworksllc.com",
+        "contactPhone": "+1-260-555-9247"
+      }
+    },
+    {
+      "id": "6",
+      "title": "DevOps Engineer",
+      "type": "Contract",
+      "description": "Exciting opportunity as a DevOps Engineer at DesignPros. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$114K - $126K",
+      "company": {
+        "name": "DesignPros",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@designpros.com",
+        "contactPhone": "+1-568-555-6715"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Marketing Manager",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Marketing Manager at DataWorks LLC. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Chicago, IL",
+      "salary": "$69K - $104K",
+      "company": {
+        "name": "DataWorks LLC",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@dataworksllc.com",
+        "contactPhone": "+1-662-555-1761"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Operations Manager",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Operations Manager at SocialBoosters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$118K - $141K",
+      "company": {
+        "name": "SocialBoosters",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@socialboosters.com",
+        "contactPhone": "+1-251-555-5998"
+      }
+    },
+    {
+      "id": "9",
+      "title": "HR Coordinator",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a HR Coordinator at TechSupport Co.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$102K - $157K",
+      "company": {
+        "name": "TechSupport Co.",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@techsupportco..com",
+        "contactPhone": "+1-817-555-8214"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Business Analyst",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Business Analyst at FinanceCorp. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$132K - $180K",
+      "company": {
+        "name": "FinanceCorp",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@financecorp.com",
+        "contactPhone": "+1-563-555-9985"
+      }
+    },
+    {
+      "id": "11",
+      "title": "IT Support Specialist",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a IT Support Specialist at FinanceCorp. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$88K - $118K",
+      "company": {
+        "name": "FinanceCorp",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@financecorp.com",
+        "contactPhone": "+1-489-555-1093"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Software Engineer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Software Engineer at PR Solutions. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$133K - $106K",
+      "company": {
+        "name": "PR Solutions",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@prsolutions.com",
+        "contactPhone": "+1-768-555-6125"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Back-End Developer",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Back-End Developer at CloudSolutions. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Los Angeles, CA",
+      "salary": "$86K - $98K",
+      "company": {
+        "name": "CloudSolutions",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@cloudsolutions.com",
+        "contactPhone": "+1-389-555-3700"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Software Engineer",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Software Engineer at ProductMasters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Denver, CO",
+      "salary": "$150K - $180K",
+      "company": {
+        "name": "ProductMasters",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@productmasters.com",
+        "contactPhone": "+1-504-555-2195"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Technical Support Specialist",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Technical Support Specialist at BizGrowth Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$89K - $171K",
+      "company": {
+        "name": "BizGrowth Inc.",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@bizgrowthinc..com",
+        "contactPhone": "+1-471-555-4409"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Marketing Manager",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Marketing Manager at PeopleFirst. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$108K - $96K",
+      "company": {
+        "name": "PeopleFirst",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@peoplefirst.com",
+        "contactPhone": "+1-541-555-5510"
+      }
+    },
+    {
+      "id": "17",
+      "title": "UI/UX Designer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a UI/UX Designer at ContentExperts. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$80K - $105K",
+      "company": {
+        "name": "ContentExperts",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@contentexperts.com",
+        "contactPhone": "+1-775-555-4204"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Product Manager",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Product Manager at DesignGuru. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$74K - $105K",
+      "company": {
+        "name": "DesignGuru",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@designguru.com",
+        "contactPhone": "+1-407-555-2757"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Data Analyst",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Data Analyst at DesignGuru. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$59K - $113K",
+      "company": {
+        "name": "DesignGuru",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@designguru.com",
+        "contactPhone": "+1-365-555-2173"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Social Media Manager",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Social Media Manager at TechWorks Ltd.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Chicago, IL",
+      "salary": "$144K - $172K",
+      "company": {
+        "name": "TechWorks Ltd.",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@techworksltd..com",
+        "contactPhone": "+1-608-555-9401"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Product Manager",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Product Manager at SocialBoosters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Chicago, IL",
+      "salary": "$66K - $101K",
+      "company": {
+        "name": "SocialBoosters",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@socialboosters.com",
+        "contactPhone": "+1-404-555-5496"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Marketing Manager",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Marketing Manager at ContentExperts. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Los Angeles, CA",
+      "salary": "$146K - $94K",
+      "company": {
+        "name": "ContentExperts",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@contentexperts.com",
+        "contactPhone": "+1-813-555-3177"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Operations Manager",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Operations Manager at AI Solutions Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$68K - $114K",
+      "company": {
+        "name": "AI Solutions Inc.",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@aisolutionsinc..com",
+        "contactPhone": "+1-672-555-8983"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Operations Manager",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Operations Manager at FinanceCorp. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$143K - $151K",
+      "company": {
+        "name": "FinanceCorp",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@financecorp.com",
+        "contactPhone": "+1-769-555-6479"
+      }
+    },
+    {
+      "id": "25",
+      "title": "Operations Manager",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Operations Manager at NetWorks Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$121K - $173K",
+      "company": {
+        "name": "NetWorks Inc.",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@networksinc..com",
+        "contactPhone": "+1-220-555-5836"
+      }
+    },
+    {
+      "id": "26",
+      "title": "Software Tester",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Software Tester at BizConsulting. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$85K - $108K",
+      "company": {
+        "name": "BizConsulting",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@bizconsulting.com",
+        "contactPhone": "+1-879-555-5273"
+      }
+    },
+    {
+      "id": "27",
+      "title": "Software Tester",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Software Tester at ProductMasters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$147K - $167K",
+      "company": {
+        "name": "ProductMasters",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@productmasters.com",
+        "contactPhone": "+1-410-555-7435"
+      }
+    },
+    {
+      "id": "28",
+      "title": "Public Relations Manager",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Public Relations Manager at Tech Innovations Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$128K - $173K",
+      "company": {
+        "name": "Tech Innovations Inc.",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@techinnovationsinc..com",
+        "contactPhone": "+1-897-555-5714"
+      }
+    },
+    {
+      "id": "29",
+      "title": "Cybersecurity Specialist",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Cybersecurity Specialist at CloudTech Solutions. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Austin, TX",
+      "salary": "$127K - $169K",
+      "company": {
+        "name": "CloudTech Solutions",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@cloudtechsolutions.com",
+        "contactPhone": "+1-429-555-4283"
+      }
+    },
+    {
+      "id": "30",
+      "title": "Network Engineer",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Network Engineer at DesignPros. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Austin, TX",
+      "salary": "$66K - $176K",
+      "company": {
+        "name": "DesignPros",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@designpros.com",
+        "contactPhone": "+1-693-555-3145"
+      }
+    },
+    {
+      "id": "31",
+      "title": "Machine Learning Engineer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Machine Learning Engineer at PeopleFirst. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Denver, CO",
+      "salary": "$140K - $145K",
+      "company": {
+        "name": "PeopleFirst",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@peoplefirst.com",
+        "contactPhone": "+1-316-555-5226"
+      }
+    },
+    {
+      "id": "32",
+      "title": "Software Engineer",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Software Engineer at TechWorks Ltd.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Austin, TX",
+      "salary": "$57K - $176K",
+      "company": {
+        "name": "TechWorks Ltd.",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@techworksltd..com",
+        "contactPhone": "+1-220-555-9010"
+      }
+    },
+    {
+      "id": "33",
+      "title": "Public Relations Manager",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Public Relations Manager at SecureNet Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Austin, TX",
+      "salary": "$80K - $106K",
+      "company": {
+        "name": "SecureNet Inc.",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@securenetinc..com",
+        "contactPhone": "+1-600-555-3872"
+      }
+    },
+    {
+      "id": "34",
+      "title": "Cybersecurity Specialist",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Cybersecurity Specialist at Tech Innovations Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Denver, CO",
+      "salary": "$71K - $112K",
+      "company": {
+        "name": "Tech Innovations Inc.",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@techinnovationsinc..com",
+        "contactPhone": "+1-921-555-2111"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Sales Executive",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Sales Executive at FinanceCorp. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$114K - $96K",
+      "company": {
+        "name": "FinanceCorp",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@financecorp.com",
+        "contactPhone": "+1-449-555-4946"
+      }
+    },
+    {
+      "id": "36",
+      "title": "Social Media Manager",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Social Media Manager at FinanceCorp. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$55K - $129K",
+      "company": {
+        "name": "FinanceCorp",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@financecorp.com",
+        "contactPhone": "+1-417-555-6452"
+      }
+    },
+    {
+      "id": "37",
+      "title": "Cybersecurity Specialist",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Cybersecurity Specialist at DesignGuru. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Austin, TX",
+      "salary": "$145K - $87K",
+      "company": {
+        "name": "DesignGuru",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@designguru.com",
+        "contactPhone": "+1-338-555-9285"
+      }
+    },
+    {
+      "id": "38",
+      "title": "Technical Support Specialist",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Technical Support Specialist at NetWorks Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$85K - $111K",
+      "company": {
+        "name": "NetWorks Inc.",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@networksinc..com",
+        "contactPhone": "+1-953-555-2589"
+      }
+    },
+    {
+      "id": "39",
+      "title": "Product Designer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Product Designer at BrandBoost. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Los Angeles, CA",
+      "salary": "$102K - $98K",
+      "company": {
+        "name": "BrandBoost",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@brandboost.com",
+        "contactPhone": "+1-239-555-2345"
+      }
+    },
+    {
+      "id": "40",
+      "title": "Front-End Developer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Front-End Developer at OpsMasters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Dallas, TX",
+      "salary": "$85K - $121K",
+      "company": {
+        "name": "OpsMasters",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@opsmasters.com",
+        "contactPhone": "+1-941-555-4025"
+      }
+    },
+    {
+      "id": "41",
+      "title": "Financial Analyst",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Financial Analyst at ContentExperts. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$51K - $166K",
+      "company": {
+        "name": "ContentExperts",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@contentexperts.com",
+        "contactPhone": "+1-662-555-6137"
+      }
+    },
+    {
+      "id": "42",
+      "title": "Front-End Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Front-End Developer at BizConsulting. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$74K - $143K",
+      "company": {
+        "name": "BizConsulting",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@bizconsulting.com",
+        "contactPhone": "+1-587-555-5391"
+      }
+    },
+    {
+      "id": "43",
+      "title": "Sales Executive",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Sales Executive at AI Solutions Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$99K - $171K",
+      "company": {
+        "name": "AI Solutions Inc.",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@aisolutionsinc..com",
+        "contactPhone": "+1-907-555-8409"
+      }
+    },
+    {
+      "id": "44",
+      "title": "Social Media Manager",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Social Media Manager at Tech Innovations Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$138K - $93K",
+      "company": {
+        "name": "Tech Innovations Inc.",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@techinnovationsinc..com",
+        "contactPhone": "+1-312-555-2179"
+      }
+    },
+    {
+      "id": "45",
+      "title": "Data Analyst",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Data Analyst at DesignGuru. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Denver, CO",
+      "salary": "$57K - $141K",
+      "company": {
+        "name": "DesignGuru",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@designguru.com",
+        "contactPhone": "+1-420-555-2831"
+      }
+    },
+    {
+      "id": "46",
+      "title": "Financial Analyst",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Financial Analyst at NetWorks Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$132K - $131K",
+      "company": {
+        "name": "NetWorks Inc.",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@networksinc..com",
+        "contactPhone": "+1-599-555-8497"
+      }
+    },
+    {
+      "id": "47",
+      "title": "Machine Learning Engineer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Machine Learning Engineer at AI Solutions Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Los Angeles, CA",
+      "salary": "$59K - $150K",
+      "company": {
+        "name": "AI Solutions Inc.",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@aisolutionsinc..com",
+        "contactPhone": "+1-839-555-8463"
+      }
+    },
+    {
+      "id": "48",
+      "title": "Software Tester",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Software Tester at QualityTech. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$85K - $163K",
+      "company": {
+        "name": "QualityTech",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@qualitytech.com",
+        "contactPhone": "+1-984-555-8067"
+      }
+    },
+    {
+      "id": "49",
+      "title": "Cybersecurity Specialist",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Cybersecurity Specialist at FinanceCorp. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Denver, CO",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "FinanceCorp",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@financecorp.com",
+        "contactPhone": "+1-870-555-2557"
+      }
+    },
+    {
+      "id": "50",
+      "title": "Data Scientist",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Data Scientist at CloudSolutions. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$126K - $171K",
+      "company": {
+        "name": "CloudSolutions",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@cloudsolutions.com",
+        "contactPhone": "+1-902-555-5242"
+      }
+    },
+    {
+      "id": "51",
+      "title": "Front-End Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Front-End Developer at TechSupport Hub. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$103K - $106K",
+      "company": {
+        "name": "TechSupport Hub",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@techsupporthub.com",
+        "contactPhone": "+1-842-555-5270"
+      }
+    },
+    {
+      "id": "52",
+      "title": "Business Analyst",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Business Analyst at DesignGuru. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Dallas, TX",
+      "salary": "$111K - $99K",
+      "company": {
+        "name": "DesignGuru",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@designguru.com",
+        "contactPhone": "+1-408-555-2385"
+      }
+    },
+    {
+      "id": "53",
+      "title": "Front-End Developer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Front-End Developer at PR Solutions. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$80K - $175K",
+      "company": {
+        "name": "PR Solutions",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@prsolutions.com",
+        "contactPhone": "+1-990-555-8788"
+      }
+    },
+    {
+      "id": "54",
+      "title": "Network Engineer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Network Engineer at DesignPros. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$66K - $172K",
+      "company": {
+        "name": "DesignPros",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@designpros.com",
+        "contactPhone": "+1-627-555-5472"
+      }
+    },
+    {
+      "id": "55",
+      "title": "Public Relations Manager",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Public Relations Manager at SocialBoosters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Austin, TX",
+      "salary": "$71K - $121K",
+      "company": {
+        "name": "SocialBoosters",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@socialboosters.com",
+        "contactPhone": "+1-501-555-3366"
+      }
+    },
+    {
+      "id": "56",
+      "title": "Marketing Manager",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Marketing Manager at WebSolutions Co.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Dallas, TX",
+      "salary": "$50K - $153K",
+      "company": {
+        "name": "WebSolutions Co.",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@websolutionsco..com",
+        "contactPhone": "+1-634-555-8339"
+      }
+    },
+    {
+      "id": "57",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Data Scientist at AI Solutions Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$92K - $95K",
+      "company": {
+        "name": "AI Solutions Inc.",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@aisolutionsinc..com",
+        "contactPhone": "+1-912-555-3102"
+      }
+    },
+    {
+      "id": "58",
+      "title": "Front-End Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Front-End Developer at SocialBoosters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$143K - $115K",
+      "company": {
+        "name": "SocialBoosters",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@socialboosters.com",
+        "contactPhone": "+1-611-555-4068"
+      }
+    },
+    {
+      "id": "59",
+      "title": "UI/UX Designer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a UI/UX Designer at DesignGuru. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Los Angeles, CA",
+      "salary": "$139K - $106K",
+      "company": {
+        "name": "DesignGuru",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@designguru.com",
+        "contactPhone": "+1-606-555-1394"
+      }
+    },
+    {
+      "id": "60",
+      "title": "Machine Learning Engineer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Machine Learning Engineer at TechWorks Ltd.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$71K - $159K",
+      "company": {
+        "name": "TechWorks Ltd.",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@techworksltd..com",
+        "contactPhone": "+1-918-555-2709"
+      }
+    },
+    {
+      "id": "61",
+      "title": "Product Designer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Product Designer at OpsMasters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$50K - $132K",
+      "company": {
+        "name": "OpsMasters",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@opsmasters.com",
+        "contactPhone": "+1-738-555-2119"
+      }
+    },
+    {
+      "id": "62",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Data Scientist at DesignPros. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$114K - $81K",
+      "company": {
+        "name": "DesignPros",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@designpros.com",
+        "contactPhone": "+1-766-555-4896"
+      }
+    },
+    {
+      "id": "63",
+      "title": "Software Tester",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Software Tester at PR Solutions. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Denver, CO",
+      "salary": "$119K - $159K",
+      "company": {
+        "name": "PR Solutions",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@prsolutions.com",
+        "contactPhone": "+1-256-555-4896"
+      }
+    },
+    {
+      "id": "64",
+      "title": "Sales Executive",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Sales Executive at PeopleFirst. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$84K - $96K",
+      "company": {
+        "name": "PeopleFirst",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@peoplefirst.com",
+        "contactPhone": "+1-220-555-6364"
+      }
+    },
+    {
+      "id": "65",
+      "title": "Sales Executive",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Sales Executive at BizConsulting. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Dallas, TX",
+      "salary": "$134K - $161K",
+      "company": {
+        "name": "BizConsulting",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@bizconsulting.com",
+        "contactPhone": "+1-437-555-3349"
+      }
+    },
+    {
+      "id": "66",
+      "title": "Cloud Architect",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Cloud Architect at TechSupport Hub. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$149K - $165K",
+      "company": {
+        "name": "TechSupport Hub",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@techsupporthub.com",
+        "contactPhone": "+1-572-555-8097"
+      }
+    },
+    {
+      "id": "67",
+      "title": "Product Designer",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Product Designer at OpsMasters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Dallas, TX",
+      "salary": "$84K - $115K",
+      "company": {
+        "name": "OpsMasters",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@opsmasters.com",
+        "contactPhone": "+1-784-555-8150"
+      }
+    },
+    {
+      "id": "68",
+      "title": "Financial Analyst",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Financial Analyst at TechSupport Hub. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Dallas, TX",
+      "salary": "$105K - $95K",
+      "company": {
+        "name": "TechSupport Hub",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@techsupporthub.com",
+        "contactPhone": "+1-586-555-5833"
+      }
+    },
+    {
+      "id": "69",
+      "title": "Business Analyst",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Business Analyst at PeopleFirst. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Denver, CO",
+      "salary": "$62K - $148K",
+      "company": {
+        "name": "PeopleFirst",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@peoplefirst.com",
+        "contactPhone": "+1-871-555-3451"
+      }
+    },
+    {
+      "id": "70",
+      "title": "Data Analyst",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Data Analyst at TechWorks Ltd.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$71K - $92K",
+      "company": {
+        "name": "TechWorks Ltd.",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@techworksltd..com",
+        "contactPhone": "+1-512-555-1427"
+      }
+    },
+    {
+      "id": "71",
+      "title": "Financial Analyst",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Financial Analyst at DesignPros. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Austin, TX",
+      "salary": "$107K - $92K",
+      "company": {
+        "name": "DesignPros",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@designpros.com",
+        "contactPhone": "+1-465-555-6804"
+      }
+    },
+    {
+      "id": "72",
+      "title": "Operations Manager",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Operations Manager at DataWorks LLC. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Los Angeles, CA",
+      "salary": "$85K - $98K",
+      "company": {
+        "name": "DataWorks LLC",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@dataworksllc.com",
+        "contactPhone": "+1-381-555-6365"
+      }
+    },
+    {
+      "id": "73",
+      "title": "Machine Learning Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Machine Learning Engineer at SocialBoosters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$65K - $101K",
+      "company": {
+        "name": "SocialBoosters",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@socialboosters.com",
+        "contactPhone": "+1-676-555-2897"
+      }
+    },
+    {
+      "id": "74",
+      "title": "IT Support Specialist",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a IT Support Specialist at TechSupport Hub. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$124K - $82K",
+      "company": {
+        "name": "TechSupport Hub",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@techsupporthub.com",
+        "contactPhone": "+1-270-555-4593"
+      }
+    },
+    {
+      "id": "75",
+      "title": "UI/UX Designer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a UI/UX Designer at DataInsights. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Austin, TX",
+      "salary": "$54K - $136K",
+      "company": {
+        "name": "DataInsights",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@datainsights.com",
+        "contactPhone": "+1-240-555-2005"
+      }
+    },
+    {
+      "id": "76",
+      "title": "Machine Learning Engineer",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Machine Learning Engineer at BizConsulting. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$86K - $96K",
+      "company": {
+        "name": "BizConsulting",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@bizconsulting.com",
+        "contactPhone": "+1-868-555-1508"
+      }
+    },
+    {
+      "id": "77",
+      "title": "Software Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Software Engineer at DesignPros. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$88K - $113K",
+      "company": {
+        "name": "DesignPros",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@designpros.com",
+        "contactPhone": "+1-817-555-8341"
+      }
+    },
+    {
+      "id": "78",
+      "title": "Network Engineer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Network Engineer at NetWorks Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$106K - $157K",
+      "company": {
+        "name": "NetWorks Inc.",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@networksinc..com",
+        "contactPhone": "+1-456-555-1967"
+      }
+    },
+    {
+      "id": "79",
+      "title": "Front-End Developer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Front-End Developer at ContentExperts. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$69K - $140K",
+      "company": {
+        "name": "ContentExperts",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@contentexperts.com",
+        "contactPhone": "+1-905-555-4900"
+      }
+    },
+    {
+      "id": "80",
+      "title": "HR Coordinator",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a HR Coordinator at WebSolutions Co.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$86K - $91K",
+      "company": {
+        "name": "WebSolutions Co.",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@websolutionsco..com",
+        "contactPhone": "+1-334-555-5972"
+      }
+    },
+    {
+      "id": "81",
+      "title": "Marketing Manager",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Marketing Manager at BizGrowth Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$143K - $84K",
+      "company": {
+        "name": "BizGrowth Inc.",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@bizgrowthinc..com",
+        "contactPhone": "+1-869-555-6999"
+      }
+    },
+    {
+      "id": "82",
+      "title": "Public Relations Manager",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Public Relations Manager at FinanceCorp. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Boston, MA",
+      "salary": "$135K - $174K",
+      "company": {
+        "name": "FinanceCorp",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@financecorp.com",
+        "contactPhone": "+1-754-555-3528"
+      }
+    },
+    {
+      "id": "83",
+      "title": "UI/UX Designer",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a UI/UX Designer at OpsMasters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$150K - $160K",
+      "company": {
+        "name": "OpsMasters",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@opsmasters.com",
+        "contactPhone": "+1-779-555-7366"
+      }
+    },
+    {
+      "id": "84",
+      "title": "Cloud Architect",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Cloud Architect at QualityTech. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$82K - $87K",
+      "company": {
+        "name": "QualityTech",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@qualitytech.com",
+        "contactPhone": "+1-888-555-4404"
+      }
+    },
+    {
+      "id": "85",
+      "title": "DevOps Engineer",
+      "type": "Contract",
+      "description": "Exciting opportunity as a DevOps Engineer at SecureNet Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$102K - $159K",
+      "company": {
+        "name": "SecureNet Inc.",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@securenetinc..com",
+        "contactPhone": "+1-838-555-2546"
+      }
+    },
+    {
+      "id": "86",
+      "title": "Software Engineer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Software Engineer at QualityTech. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$132K - $157K",
+      "company": {
+        "name": "QualityTech",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@qualitytech.com",
+        "contactPhone": "+1-972-555-2703"
+      }
+    },
+    {
+      "id": "87",
+      "title": "Front-End Developer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Front-End Developer at DataWorks LLC. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$81K - $156K",
+      "company": {
+        "name": "DataWorks LLC",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@dataworksllc.com",
+        "contactPhone": "+1-411-555-1966"
+      }
+    },
+    {
+      "id": "88",
+      "title": "Machine Learning Engineer",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Machine Learning Engineer at OpsMasters. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$144K - $89K",
+      "company": {
+        "name": "OpsMasters",
+        "description": "A leading company in technology.",
+        "companyemail": "jobs@opsmasters.com",
+        "contactPhone": "+1-575-555-8354"
+      }
+    },
+    {
+      "id": "89",
+      "title": "Social Media Manager",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Social Media Manager at WebSolutions Co.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Chicago, IL",
+      "salary": "$53K - $172K",
+      "company": {
+        "name": "WebSolutions Co.",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@websolutionsco..com",
+        "contactPhone": "+1-998-555-2366"
+      }
+    },
+    {
+      "id": "90",
+      "title": "Sales Executive",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Sales Executive at AI Solutions Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$119K - $84K",
+      "company": {
+        "name": "AI Solutions Inc.",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@aisolutionsinc..com",
+        "contactPhone": "+1-976-555-9372"
+      }
+    },
+    {
+      "id": "91",
+      "title": "Technical Support Specialist",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Technical Support Specialist at DesignPros. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Chicago, IL",
+      "salary": "$128K - $85K",
+      "company": {
+        "name": "DesignPros",
+        "description": "A leading company in marketing.",
+        "companyemail": "jobs@designpros.com",
+        "contactPhone": "+1-999-555-9119"
+      }
+    },
+    {
+      "id": "92",
+      "title": "UI/UX Designer",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a UI/UX Designer at NetWorks Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$116K - $142K",
+      "company": {
+        "name": "NetWorks Inc.",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@networksinc..com",
+        "contactPhone": "+1-229-555-6370"
+      }
+    },
+    {
+      "id": "93",
+      "title": "Back-End Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Back-End Developer at AI Solutions Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Chicago, IL",
+      "salary": "$101K - $158K",
+      "company": {
+        "name": "AI Solutions Inc.",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@aisolutionsinc..com",
+        "contactPhone": "+1-864-555-3037"
+      }
+    },
+    {
+      "id": "94",
+      "title": "Technical Support Specialist",
+      "type": "Freelance",
+      "description": "Exciting opportunity as a Technical Support Specialist at TechWorks Ltd.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$131K - $147K",
+      "company": {
+        "name": "TechWorks Ltd.",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@techworksltd..com",
+        "contactPhone": "+1-689-555-7924"
+      }
+    },
+    {
+      "id": "95",
+      "title": "Cybersecurity Specialist",
+      "type": "Contract",
+      "description": "Exciting opportunity as a Cybersecurity Specialist at BizConsulting. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$121K - $122K",
+      "company": {
+        "name": "BizConsulting",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@bizconsulting.com",
+        "contactPhone": "+1-901-555-3936"
+      }
+    },
+    {
+      "id": "96",
+      "title": "UI/UX Designer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a UI/UX Designer at AI Solutions Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Miami, FL",
+      "salary": "$108K - $167K",
+      "company": {
+        "name": "AI Solutions Inc.",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@aisolutionsinc..com",
+        "contactPhone": "+1-988-555-6889"
+      }
+    },
+    {
+      "id": "97",
+      "title": "Machine Learning Engineer",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Machine Learning Engineer at DataInsights. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "Seattle, WA",
+      "salary": "$119K - $113K",
+      "company": {
+        "name": "DataInsights",
+        "description": "A leading company in consulting.",
+        "companyemail": "jobs@datainsights.com",
+        "contactPhone": "+1-819-555-3549"
+      }
+    },
+    {
+      "id": "98",
+      "title": "Public Relations Manager",
+      "type": "Commission-Based",
+      "description": "Exciting opportunity as a Public Relations Manager at BizGrowth Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$133K - $118K",
+      "company": {
+        "name": "BizGrowth Inc.",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@bizgrowthinc..com",
+        "contactPhone": "+1-361-555-1810"
+      }
+    },
+    {
+      "id": "99",
+      "title": "Social Media Manager",
+      "type": "Part-Time",
+      "description": "Exciting opportunity as a Social Media Manager at DataInsights. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "San Francisco, CA",
+      "salary": "$122K - $150K",
+      "company": {
+        "name": "DataInsights",
+        "description": "A leading company in finance.",
+        "companyemail": "jobs@datainsights.com",
+        "contactPhone": "+1-960-555-6285"
+      }
+    },
+    {
+      "id": "100",
+      "title": "Marketing Manager",
+      "type": "Full-Time",
+      "description": "Exciting opportunity as a Marketing Manager at SecureNet Inc.. Responsibilities include working on cutting-edge solutions, collaborating with teams, and delivering high-quality results.",
+      "location": "New York, NY",
+      "salary": "$108K - $124K",
+      "company": {
+        "name": "SecureNet Inc.",
+        "description": "A leading company in design.",
+        "companyemail": "jobs@securenetinc..com",
+        "contactPhone": "+1-386-555-1765"
+      }
+    }
+  ]
+}

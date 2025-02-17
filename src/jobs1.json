@@ -1,0 +1,354 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "type": "Full-Time",
+      "description": "Develop and maintain web applications using modern technologies. Collaborate with cross-functional teams to design, develop, and implement innovative software solutions. Troubleshoot, debug, and optimize code for performance and scalability.",
+      "location": "San Francisco, CA",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Tech Innovations Inc.",
+        "description": "A leading software solutions provider.",
+        "companyemail": "hr@techinnovations.com",
+        "contactPhone": "+1-415-555-1234"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Data Analyst",
+      "type": "Part-Time",
+      "description": "Analyze large datasets to derive actionable insights. Work closely with business teams to identify trends, forecast outcomes, and optimize decision-making. Create reports and visualizations to communicate findings effectively.",
+      "location": "New York, NY",
+      "salary": "$70K - $85K",
+      "company": {
+        "name": "DataWorks LLC",
+        "description": "A data-driven company specializing in analytics.",
+        "companyemail": "jobs@dataworks.com",
+        "contactPhone": "+1-212-555-5678"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Marketing Manager",
+      "type": "Full-Time",
+      "description": "Oversee and implement marketing strategies to boost brand awareness. Develop and execute campaigns across various digital and traditional channels. Manage budgets, analyze campaign performance, and lead a team of marketing professionals.",
+      "location": "Los Angeles, CA",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "BrandBoost",
+        "description": "A marketing agency specializing in digital campaigns.",
+        "companyemail": "careers@brandboost.com",
+        "contactPhone": "+1-310-555-8765"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Product Designer",
+      "type": "Contract",
+      "description": "Design user-centric products with an emphasis on usability. Work on wireframes, prototypes, and high-fidelity designs to enhance user experience. Conduct research, gather feedback, and collaborate with developers to implement designs effectively.",
+      "location": "Austin, TX",
+      "salary": "$85K - $100K",
+      "company": {
+        "name": "DesignPros",
+        "description": "A UI/UX design consulting firm.",
+        "companyemail": "hiring@designpros.com",
+        "contactPhone": "+1-512-555-2345"
+      }
+    },
+    {
+      "title": "Cybersecurity Specialist",
+      "type": "full-time",
+      "description": "Implement security measures to protect company systems. Conduct security assessments, identify vulnerabilities, and mitigate risks. Stay up to date with evolving cybersecurity threats and recommend best practices.",
+      "location": "Seattle, WA",
+      "salary": "$105K - $130K",
+      "company": {
+        "name": "SecureNet Inc.",
+        "description": "A cybersecurity company focused on enterprise security solutions.",
+        "companyemail": "securityjobs@securenet.com",
+        "contactPhone": "+1-206-555-6789"
+      },
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "title": "HR Coordinator",
+      "type": "Part-Time",
+      "description": "Manage employee relations and recruitment processes. Assist in onboarding, performance management, and compliance with HR policies. Coordinate training programs and employee engagement activities.",
+      "location": "Chicago, IL",
+      "salary": "$50K - $65K",
+      "company": {
+        "name": "PeopleFirst",
+        "description": "A human resource consulting firm.",
+        "companyemail": "hr@peoplefirst.com",
+        "contactPhone": "+1-312-555-4321"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Cloud Architect",
+      "type": "Full-Time",
+      "description": "Design and deploy scalable cloud infrastructure solutions. Work with development and operations teams to optimize cloud environments for efficiency, security, and cost-effectiveness. Ensure compliance with industry standards and best practices.",
+      "location": "Denver, CO",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "CloudTech Solutions",
+        "description": "A cloud computing services provider.",
+        "companyemail": "jobs@cloudtech.com",
+        "contactPhone": "+1-720-555-9876"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Sales Executive",
+      "type": "Commission-Based",
+      "description": "Drive sales and expand the customer base through outreach and engagement. Develop strong relationships with clients and negotiate deals. Track sales performance and identify new business opportunities to increase revenue.",
+      "location": "Miami, FL",
+      "salary": "$60K - $90K",
+      "company": {
+        "name": "BizGrowth Inc.",
+        "description": "A sales and business development company.",
+        "companyemail": "careers@bizgrowth.com",
+        "contactPhone": "+1-305-555-6543"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Technical Support Specialist",
+      "type": "Full-Time",
+      "description": "Provide technical assistance and troubleshooting support. Assist customers in resolving hardware and software issues. Document common problems and work with the engineering team to improve product stability and user experience.",
+      "location": "Boston, MA",
+      "salary": "$55K - $75K",
+      "company": {
+        "name": "TechSupport Hub",
+        "description": "A customer support and IT solutions company.",
+        "companyemail": "supportjobs@techsupporthub.com",
+        "contactPhone": "+1-617-555-3210"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Machine Learning Engineer",
+      "type": "Full-Time",
+      "description": "Develop and optimize machine learning models for various applications. Work with large datasets, implement deep learning techniques, and deploy models in production environments. Collaborate with researchers and data scientists to enhance AI capabilities.",
+      "location": "Palo Alto, CA",
+      "salary": "$140K - $170K",
+      "company": {
+        "name": "AI Solutions Inc.",
+        "description": "A research-driven AI technology company.",
+        "companyemail": "mljobs@aisolutions.com",
+        "contactPhone": "+1-650-555-7890"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Front-End Developer",
+      "type": "Full-Time",
+      "description": "Develop and maintain the user interface for web applications using HTML, CSS, JavaScript, and React. Work closely with back-end developers and designers to create seamless user experiences.",
+      "location": "San Jose, CA",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "WebSolutions Co.",
+        "description": "A web development company focused on innovative solutions.",
+        "companyemail": "hr@websolutions.com",
+        "contactPhone": "+1-408-555-4321"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Back-End Developer",
+      "type": "Full-Time",
+      "description": "Build and maintain the server-side logic, databases, and APIs for web applications. Ensure performance, security, and scalability of the applications.",
+      "location": "Dallas, TX",
+      "salary": "$115K - $140K",
+      "company": {
+        "name": "TechWorks Ltd.",
+        "description": "A software solutions company with a focus on back-end systems.",
+        "companyemail": "jobs@techworks.com",
+        "contactPhone": "+1-214-555-6789"
+      }
+    },
+    {
+      "id": "13",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "Automate the deployment process and manage cloud infrastructure to ensure continuous integration and delivery. Monitor system performance and troubleshoot issues in the production environment.",
+      "location": "Chicago, IL",
+      "salary": "$120K - $150K",
+      "company": {
+        "name": "CloudSolutions",
+        "description": "A cloud infrastructure services company.",
+        "companyemail": "hr@cloudsolutions.com",
+        "contactPhone": "+1-312-555-2345"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Software Tester",
+      "type": "Full-Time",
+      "description": "Test software applications for bugs, errors, and functionality. Write and execute test plans and report issues to the development team.",
+      "location": "San Diego, CA",
+      "salary": "$75K - $90K",
+      "company": {
+        "name": "QualityTech",
+        "description": "A software testing and QA services company.",
+        "companyemail": "careers@qualitytech.com",
+        "contactPhone": "+1-619-555-1234"
+      }
+    },
+    {
+      "id": "15",
+      "title": "UI/UX Designer",
+      "type": "Full-Time",
+      "description": "Design user interfaces and experiences for web and mobile applications. Work closely with developers and product teams to create intuitive, user-friendly designs.",
+      "location": "New York, NY",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "DesignGuru",
+        "description": "A digital design consultancy.",
+        "companyemail": "hr@designguru.com",
+        "contactPhone": "+1-212-555-6789"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Network Engineer",
+      "type": "Full-Time",
+      "description": "Design, implement, and manage network systems for organizations. Troubleshoot network issues, configure hardware, and ensure the security of network infrastructure.",
+      "location": "Seattle, WA",
+      "salary": "$95K - $120K",
+      "company": {
+        "name": "NetWorks Inc.",
+        "description": "A network infrastructure company.",
+        "companyemail": "jobs@networks.com",
+        "contactPhone": "+1-206-555-9876"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "Analyze large datasets to provide insights for decision-making. Build predictive models, work with machine learning algorithms, and visualize data findings.",
+      "location": "Boston, MA",
+      "salary": "$125K - $145K",
+      "company": {
+        "name": "DataInsights",
+        "description": "A data science and analytics company.",
+        "companyemail": "careers@datainsights.com",
+        "contactPhone": "+1-617-555-1234"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Business Analyst",
+      "type": "Full-Time",
+      "description": "Analyze business processes and provide insights for improvement. Collaborate with stakeholders to gather requirements and implement business solutions.",
+      "location": "Austin, TX",
+      "salary": "$85K - $105K",
+      "company": {
+        "name": "BizConsulting",
+        "description": "A business consulting firm.",
+        "companyemail": "hr@bizconsulting.com",
+        "contactPhone": "+1-512-555-4321"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Financial Analyst",
+      "type": "Full-Time",
+      "description": "Analyze financial data, prepare reports, and assist with budgeting and forecasting. Provide insights into company financial performance and support decision-making.",
+      "location": "Los Angeles, CA",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "FinanceCorp",
+        "description": "A financial services company.",
+        "companyemail": "jobs@financecorp.com",
+        "contactPhone": "+1-310-555-6543"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Operations Manager",
+      "type": "Full-Time",
+      "description": "Manage day-to-day operations of the business, improve efficiency, and optimize workflows. Lead a team of operations staff and work with senior management on strategic initiatives.",
+      "location": "Dallas, TX",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "OpsMasters",
+        "description": "An operations consulting company.",
+        "companyemail": "careers@opsmasters.com",
+        "contactPhone": "+1-214-555-9876"
+      }
+    },
+    {
+      "id": "21",
+      "title": "IT Support Specialist",
+      "type": "Full-Time",
+      "description": "Provide IT support and troubleshoot issues for employees. Ensure systems are working efficiently and assist with hardware and software installations.",
+      "location": "Miami, FL",
+      "salary": "$60K - $75K",
+      "company": {
+        "name": "TechSupport Co.",
+        "description": "An IT solutions provider.",
+        "companyemail": "support@techsupportco.com",
+        "contactPhone": "+1-305-555-1234"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Content Strategist",
+      "type": "Full-Time",
+      "description": "Develop and execute content strategies that align with business objectives. Write and edit content for websites, blogs, and marketing materials.",
+      "location": "Chicago, IL",
+      "salary": "$70K - $90K",
+      "company": {
+        "name": "ContentExperts",
+        "description": "A content creation and strategy firm.",
+        "companyemail": "careers@contentexperts.com",
+        "contactPhone": "+1-312-555-8765"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Social Media Manager",
+      "type": "Full-Time",
+      "description": "Develop and implement social media strategies to enhance brand visibility. Manage social media accounts, create engaging content, and analyze performance.",
+      "location": "San Francisco, CA",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "SocialBoosters",
+        "description": "A digital marketing agency.",
+        "companyemail": "careers@socialboosters.com",
+        "contactPhone": "+1-415-555-4321"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Public Relations Manager",
+      "type": "Full-Time",
+      "description": "Develop and execute public relations strategies. Maintain relationships with media outlets and help improve the public image of the company.",
+      "location": "New York, NY",
+      "salary": "$95K - $120K",
+      "company": {
+        "name": "PR Solutions",
+        "description": "A public relations agency.",
+        "companyemail": "hr@prsolutions.com",
+        "contactPhone": "+1-212-555-4321"
+      }
+    },
+    {
+      "id": "25",
+      "title": "Product Manager",
+      "type": "Full-Time",
+      "description": "Oversee the product lifecycle from ideation to launch. Coordinate with engineering, design, and marketing teams to ensure timely delivery and market success.",
+      "location": "Seattle, WA",
+      "salary": "$110K - $140K",
+      "company": {
+        "name": "ProductMasters",
+        "description": "A product management consulting firm.",
+        "companyemail": "hr@productmasters.com",
+        "contactPhone": "+1-206-555-4321"
+      }
+    }
+  ]
+}
