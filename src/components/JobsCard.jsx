@@ -90,7 +90,7 @@ const JobsCard = (props) => {
           size={{ base: "sm", md: "md" }}
           onClick={() => navigate(`/jobs/${props.jobId}`)}
         >
-          {props.buttontext}
+          See More
         </Button>
       </Card.Footer>
     </HStack>
