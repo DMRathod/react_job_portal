@@ -10,7 +10,7 @@ import {
   Text,
   Portal,
 } from "@chakra-ui/react";
-import { NavLink, useLocation } from "react-router-dom";  
+import { NavLink, useLocation } from "react-router-dom";
 import { HiBriefcase } from "react-icons/hi";
 import { CgMenuOreos } from "react-icons/cg"; // Updated menu icon
 import { useState } from "react"; // Importing useState for managing menu open state
@@ -67,14 +67,13 @@ const NavBar = () => {
               </Button>
             </MenuTrigger>
             {isOpen && (
-              <Portal>
-                {/* Sidebar MenuContent */}
+              <Portal> {/* Ensures menu overlays content instead of shifting it */}
                 <MenuContent
                   position="fixed"
                   top={0}
-                  left={0}
+                  right={0}  // Positioning the menu to the right
                   width="200px" // Sidebar width
-                  height="80%" // Full height of the viewport
+                  height="40%" // Full height of the viewport
                   bg="white"
                   boxShadow="lg"
                   zIndex={20}
@@ -82,7 +81,7 @@ const NavBar = () => {
                   display="flex"
                   flexDirection="column"
                 >
-                  {/* Close Button or Optional Backdrop */}
+                  {/* Close Button */}
                   <Button onClick={toggleMenu} mb={4} variant="ghost">Close</Button>
                   {navLinks.map(({ to, label }) => (
                     <MenuItem key={to} as={NavLink} to={to} onClick={() => setIsOpen(false)}>
