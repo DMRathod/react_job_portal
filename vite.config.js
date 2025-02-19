@@ -18,6 +18,6 @@ export default defineConfig({
   preview: {
     host: '0.0.0.0',
     port: 3000,
-    allowedHosts: ['jobglu.onrender.com'],
+    allowedHosts: ['dharmrajrathod6.onrender.com'],
   },
 })

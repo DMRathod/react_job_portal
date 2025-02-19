@@ -45,7 +45,6 @@ const NavBar = () => {
       zIndex={10}
       p={4}
       boxShadow="sm"
-      height="64px"
     >
       <Flex justifyContent="space-between" alignItems="center">
         {/* Left Section: Logo */}
